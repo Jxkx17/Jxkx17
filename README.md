@@ -1,0 +1,150 @@
+<!-- ═══════════════════════════════════════════════════════════════════
+     Profil GitHub de Bill Arnold SALANON — @Jxkx17
+     À placer dans le dépôt  github.com/Jxkx17/Jxkx17  (fichier README.md)
+     ═══════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Bill%20Arnold%20SALANON&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Ingénieur%20logiciel%20%7C%20Mobile%20%26%20Backend%20%7C%20Bénin&descAlignY=58&descSize=20&animation=fadeIn" alt="En-tête" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Je+construis+des+applications+mobiles+hors+connexion+d'abord;Flutter+%2B+Laravel+%3D+mon+duo+favori;S%C3%A9curit%C3%A9+par+d%C3%A9faut%2C+pas+en+option;%C3%89tudiant+en+master+%C3%A0+l'EPAC+%E2%80%94+Universit%C3%A9+d'Abomey-Calavi" alt="Texte animé" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jxkx17"><img src="https://img.shields.io/github/followers/Jxkx17?style=for-the-badge&logo=github&logoColor=white&color=1d4ed8&labelColor=0f172a" alt="Abonnés" /></a>
+  <a href="https://github.com/Jxkx17?tab=repositories"><img src="https://img.shields.io/badge/D%C3%A9p%C3%B4ts-publics-06b6d4?style=for-the-badge&logo=git&logoColor=white&labelColor=0f172a" alt="Dépôts" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Jxkx17&style=for-the-badge&color=1d4ed8&label=VISITES" alt="Compteur de visites" />
+  <img src="https://img.shields.io/badge/Bénin-🇧🇯-0f172a?style=for-the-badge&labelColor=0f172a" alt="Bénin" />
+</p>
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td width="60%" valign="top">
+
+## 👋 À propos de moi
+
+Je suis **Bill Arnold SALANON**, étudiant en **master à l'EPAC** (École Polytechnique d'Abomey-Calavi, Université d'Abomey-Calavi, Bénin) et développeur **mobile & backend**.
+
+Ce qui me motive : transformer un besoin réel en un produit **fiable, sécurisé et utilisable sans réseau**. Je conçois des applications de bout en bout, de l'écran du téléphone jusqu'à l'API et au serveur qui l'héberge.
+
+- 📱 **Mobile** : Flutter, Android natif (Kotlin / XML), stockage chiffré, synchronisation en arrière-plan
+- ⚙️ **Backend** : Laravel / PHP 8.3, API REST, authentification par jetons, déploiement VPS + HTTPS
+- 🔐 **Sécurité** : audits applicatifs, chiffrement local, épinglage de certificats, durcissement Android
+- 🧪 **Méthode** : commits atomiques, tests, documentation vivante, revue de sécurité régulière
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jxkx17&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=22d3ee&icon_color=1d4ed8&text_color=e2e8f0&include_all_commits=true&count_private=true&rank_icon=github" alt="Statistiques GitHub" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Jxkx17&theme=tokyonight&hide_border=true&background=0f172a&ring=22d3ee&fire=06b6d4&currStreakLabel=22d3ee" alt="Série de contributions" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Ce que je construis
+
+<table align="center" border="0">
+<tr>
+<td align="center" width="25%" valign="top">
+<h3>📴 Apps mobiles<br/>offline-first</h3>
+<sub>Saisie sur le terrain sans réseau, brouillons automatiques, file d'envoi en arrière-plan, reprise des envois interrompus, synchronisation avec un serveur central.</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<h3>⚙️ API & back-offices<br/>Laravel</h3>
+<sub>API REST sécurisées, espaces d'administration, gestion des rôles et des comptes, exports par lots, notifications e-mail, mise en production sur VPS.</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<h3>🔐 Applications<br/>sécurisées</h3>
+<sub>Authentification à deux facteurs, bases locales chiffrées, pièces jointes chiffrées, verrouillage biométrique, audits et correctifs documentés.</sub>
+</td>
+<td align="center" width="25%" valign="top">
+<h3>🎨 Interfaces<br/>soignées</h3>
+<sub>Thèmes clair / sombre, jetons de design, animations de transition, écrans de connexion et tableaux de bord modernes sur Android et Flutter.</sub>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📂 Dépôts publics</b></summary>
+<br/>
+
+| Projet | Description | Stack |
+|---|---|---|
+| [`login_Android_php_Mysql_Modern`](https://github.com/Jxkx17/login_Android_php_Mysql_Modern) | Tableau de bord portefeuille, écrans de connexion / inscription animés, fragments, splash | Android Studio · XML · PHP · MySQL |
+| [`hex-neon`](https://github.com/Jxkx17/hex-neon) | Expérimentation front-end | TypeScript |
+| [`Exo_OS_Vols`](https://github.com/Jxkx17/Exo_OS_Vols) | Exercices de programmation système | C |
+
+</details>
+
+<br/>
+
+## 🧰 Boîte à outils
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,laravel,php,mysql,sqlite,ts,js,react,html,css,c,python,docker,linux,ubuntu,nginx,git,github,vscode,figma,postman&perline=12" alt="Technologies" />
+</p>
+
+<table align="center" border="0">
+<tr>
+<td align="center" width="25%"><b>📱 Mobile</b><br/><sub>Flutter · Dart · Kotlin · Android SDK · WorkManager · Keystore / Keychain</sub></td>
+<td align="center" width="25%"><b>⚙️ Backend</b><br/><sub>Laravel · PHP 8.3 · Sanctum · MySQL · SQLite · API REST · Artisan</sub></td>
+<td align="center" width="25%"><b>🔐 Sécurité</b><br/><sub>SQLCipher · AES-256-GCM · Certificate pinning · R8 · Audit · Rate-limiting</sub></td>
+<td align="center" width="25%"><b>☁️ Ops</b><br/><sub>VPS Ubuntu · Nginx · Let's Encrypt · Docker · Git · CI</sub></td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 Activité
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jxkx17&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=22d3ee&line=1d4ed8&point=06b6d4&area=true&area_color=1d4ed8" alt="Graphique d'activité" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jxkx17&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e2e8f0&langs_count=8" alt="Langages les plus utilisés" height="300" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jxkx17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&row=2" alt="Trophées" height="300" />
+</p>
+
+<br/>
+
+## 🎯 En ce moment
+
+```yaml
+étude        : Master — EPAC, Université d'Abomey-Calavi
+focus        : applications mobiles offline-first et API Laravel sécurisées
+apprentissage: architecture Flutter à grande échelle, observabilité backend
+ouvert à     : stages, alternance, missions freelance, collaborations open source
+```
+
+<br/>
+
+## 📫 Me contacter
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/salanonbill/"><img src="https://img.shields.io/badge/LinkedIn-salanonbill-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:slnjxkx@gmail.com"><img src="https://img.shields.io/badge/E--mail-slnjxkx%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail principal" /></a>
+  <a href="mailto:realbillmail@gmail.com"><img src="https://img.shields.io/badge/E--mail-realbillmail%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail secondaire" /></a>
+</p>
+<p align="center">
+  <a href="https://wa.me/2290191565339"><img src="https://img.shields.io/badge/WhatsApp-%2B229%2001%2091%2056%2053%2039-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="tel:+2290191565339"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9phone-%2B229%2001%2091%2056%2053%2039-0f172a?style=for-the-badge&logo=phone&logoColor=white" alt="Téléphone" /></a>
+  <a href="https://github.com/Jxkx17"><img src="https://img.shields.io/badge/GitHub-Jxkx17-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <i>« Un bon logiciel de terrain, c'est celui qui marche quand le réseau ne marche pas. »</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=120&section=footer" alt="Pied de page" />
+</p>
