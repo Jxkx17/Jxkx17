@@ -13,13 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Jxkx17"><img src="https://img.shields.io/github/followers/Jxkx17?style=for-the-badge&logo=github&logoColor=white&color=1d4ed8&labelColor=0f172a" alt="Abonnés" /></a>
-  <a href="https://github.com/Jxkx17?tab=repositories"><img src="https://img.shields.io/badge/D%C3%A9p%C3%B4ts-publics-06b6d4?style=for-the-badge&logo=git&logoColor=white&labelColor=0f172a" alt="Dépôts" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Jxkx17&style=for-the-badge&color=1d4ed8&label=VISITES" alt="Compteur de visites" />
-  <img src="https://img.shields.io/badge/Bénin-🇧🇯-0f172a?style=for-the-badge&labelColor=0f172a" alt="Bénin" />
-</p>
-
 <br/>
 
 <table align="center" border="0">
@@ -28,13 +21,13 @@
 
 ## 👋 À propos de moi
 
-Je suis **Bill Arnold SALANON**, étudiant en **master à l'EPAC** (École Polytechnique d'Abomey-Calavi, Université d'Abomey-Calavi, Bénin) et développeur **mobile & backend**.
+Je suis **Bill Arnold SALANON**, étudiant en fin de **cycle ingénieur à l'EPAC** (École Polytechnique d'Abomey-Calavi, Université d'Abomey-Calavi, Bénin) et développeur **web/mobile**.
 
-Ce qui me motive : transformer un besoin réel en un produit **fiable, sécurisé et utilisable sans réseau**. Je conçois des applications de bout en bout, de l'écran du téléphone jusqu'à l'API et au serveur qui l'héberge.
+Ce qui me motive : transformer un besoin réel en un produit **fiable, sécurisé et utilisable**. Je conçois des solutions numériques innovantes qui répondent à un besoin précis et bien défini.
 
 - 📱 **Mobile** : Flutter, Android natif (Kotlin / XML), stockage chiffré, synchronisation en arrière-plan
 - ⚙️ **Backend** : Laravel / PHP 8.3, API REST, authentification par jetons, déploiement VPS + HTTPS
-- 🔐 **Sécurité** : audits applicatifs, chiffrement local, épinglage de certificats, durcissement Android
+- 🔐 **Sécurité** : audits applicatifs, chiffrement local, épinglage de certificats,
 - 🧪 **Méthode** : commits atomiques, tests, documentation vivante, revue de sécurité régulière
 
 </td>
@@ -55,10 +48,6 @@ Ce qui me motive : transformer un besoin réel en un produit **fiable, sécuris�
 <table align="center" border="0">
 <tr>
 <td align="center" width="25%" valign="top">
-<h3>📴 Apps mobiles<br/>offline-first</h3>
-<sub>Saisie sur le terrain sans réseau, brouillons automatiques, file d'envoi en arrière-plan, reprise des envois interrompus, synchronisation avec un serveur central.</sub>
-</td>
-<td align="center" width="25%" valign="top">
 <h3>⚙️ API & back-offices<br/>Laravel</h3>
 <sub>API REST sécurisées, espaces d'administration, gestion des rôles et des comptes, exports par lots, notifications e-mail, mise en production sur VPS.</sub>
 </td>
@@ -68,7 +57,7 @@ Ce qui me motive : transformer un besoin réel en un produit **fiable, sécuris�
 </td>
 <td align="center" width="25%" valign="top">
 <h3>🎨 Interfaces<br/>soignées</h3>
-<sub>Thèmes clair / sombre, jetons de design, animations de transition, écrans de connexion et tableaux de bord modernes sur Android et Flutter.</sub>
+<sub>Thèmes clair / sombre, animations de transition, écrans de connexion et tableaux de bord modernes.</sub>
 </td>
 </tr>
 </table>
@@ -104,12 +93,6 @@ Ce qui me motive : transformer un besoin réel en un produit **fiable, sécuris�
 
 <br/>
 
-## 📊 Activité
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jxkx17&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=22d3ee&line=1d4ed8&point=06b6d4&area=true&area_color=1d4ed8" alt="Graphique d'activité" width="95%" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jxkx17&theme=tokyonight" alt="Dépôts par langage" width="46%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jxkx17&theme=tokyonight" alt="Langages les plus commités" width="46%" />
@@ -121,10 +104,10 @@ Ce qui me motive : transformer un besoin réel en un produit **fiable, sécuris�
 ## 🎯 En ce moment
 
 ```yaml
-étude        : Master — EPAC, Université d'Abomey-Calavi
-focus        : applications mobiles offline-first et API Laravel sécurisées
-apprentissage: architecture Flutter à grande échelle, observabilité backend
-ouvert à     : stages, alternance, missions freelance, collaborations open source
+étude        : Cycle Ing — EPAC, Université d'Abomey-Calavi
+focus        : Applications mobiles offline-first et API Laravel sécurisées
+apprentissage: Architecture Flutter à grande échelle, observabilité backend
+ouvert à     : Stages, alternance, missions freelance, collaborations open source
 ```
 
 <br/>
@@ -143,7 +126,7 @@ ouvert à     : stages, alternance, missions freelance, collaborations open sour
 </p>
 
 <p align="center">
-  <i>« Un bon logiciel de terrain, c'est celui qui marche quand le réseau ne marche pas. »</i>
+  <i>« KAIZEN »</i>
 </p>
 
 <p align="center">
