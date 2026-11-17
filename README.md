@@ -4,7 +4,7 @@
      ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Bill%20Arnold%20SALANON&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Ing%C3%A9nieur%20logiciel%20%7C%20Mobile%20%26%20Backend%20%7C%20B%C3%A9nin&descAlignY=58&descSize=20&animation=fadeIn" alt="En-tête" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Bill%20Arnold%20SALANON&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Ing%C3%A9nieur%20logiciel%20%C2%B7%20Mobile%20%C2%B7%20Backend%20%C2%B7%20B%C3%A9nin&descAlignY=58&descSize=20&animation=fadeIn" alt="En-tête" />
 </p>
 
 <p align="center">
