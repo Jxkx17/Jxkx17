@@ -27,7 +27,7 @@ Ce qui me motive : transformer un besoin réel en un produit **fiable, sécuris�
 
 - 📱 **Mobile** : Flutter, Android natif (Kotlin / XML), stockage chiffré, synchronisation en arrière-plan
 - ⚙️ **Backend** : Laravel / PHP 8.3, API REST, authentification par jetons, déploiement VPS + HTTPS
-- 🔐 **Sécurité** : audits applicatifs, chiffrement local, épinglage de certificats,
+- 🔐 **Sécurité** : audits applicatifs, chiffrement local, épinglage de certificats
 - 🧪 **Méthode** : commits atomiques, tests, documentation vivante, revue de sécurité régulière
 
 </td>
