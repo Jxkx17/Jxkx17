@@ -4,7 +4,7 @@
      ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Bill%20Arnold%20SALANON&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Ingénieur%20logiciel%20%7C%20Mobile%20%26%20Backend%20%7C%20Bénin&descAlignY=58&descSize=20&animation=fadeIn" alt="En-tête" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Bill%20Arnold%20SALANON&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Ing%C3%A9nieur%20logiciel%20%7C%20Mobile%20%26%20Backend%20%7C%20B%C3%A9nin&descAlignY=58&descSize=20&animation=fadeIn" alt="En-tête" />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ Ce qui me motive : transformer un besoin réel en un produit **fiable, sécuris�
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jxkx17&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=22d3ee&icon_color=1d4ed8&text_color=e2e8f0&include_all_commits=true&count_private=true&rank_icon=github" alt="Statistiques GitHub" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jxkx17&theme=tokyonight" alt="Statistiques GitHub" width="100%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Jxkx17&theme=tokyonight&hide_border=true&background=0f172a&ring=22d3ee&fire=06b6d4&currStreakLabel=22d3ee" alt="Série de contributions" width="100%" />
 
@@ -111,8 +111,9 @@ Ce qui me motive : transformer un besoin réel en un produit **fiable, sécuris�
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jxkx17&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e2e8f0&langs_count=8" alt="Langages les plus utilisés" height="300" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Jxkx17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&row=2" alt="Trophées" height="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jxkx17&theme=tokyonight" alt="Dépôts par langage" width="46%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jxkx17&theme=tokyonight" alt="Langages les plus commités" width="46%" />
+  <img src="https://github-trophies.vercel.app/?username=Jxkx17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&row=2" alt="Trophées" width="95%" />
 </p>
 
 <br/>
