@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Je+construis+des+applications+mobiles+hors+connexion+d'abord;Flutter+%2B+Laravel+%3D+mon+duo+favori;S%C3%A9curit%C3%A9+par+d%C3%A9faut%2C+pas+en+option;%C3%89tudiant+en+master+%C3%A0+l'EPAC+%E2%80%94+Universit%C3%A9+d'Abomey-Calavi" alt="Texte animé" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Ing%C3%A9nieur+R%C3%A9seaux+Informatique+et+Internet" alt="Texte animé" />
   </a>
 </p>
 
@@ -63,7 +63,7 @@ Ce qui me motive : transformer un besoin réel en un produit **fiable, sécuris�
 </table>
 
 <details>
-<summary><b>📂 Dépôts publics</b></summary>
+<summary><b>📂 Dépôts publics et privés</b></summary>
 <br/>
 
 | Projet | Description | Stack |
@@ -71,6 +71,16 @@ Ce qui me motive : transformer un besoin réel en un produit **fiable, sécuris�
 | [`login_Android_php_Mysql_Modern`](https://github.com/Jxkx17/login_Android_php_Mysql_Modern) | Tableau de bord portefeuille, écrans de connexion / inscription animés, fragments, splash | Android Studio · XML · PHP · MySQL |
 | [`hex-neon`](https://github.com/Jxkx17/hex-neon) | Expérimentation front-end | TypeScript |
 | [`Exo_OS_Vols`](https://github.com/Jxkx17/Exo_OS_Vols) | Exercices de programmation système | C |
+
+**🔒 Dépôts privés**
+
+Une partie de mon travail se trouve dans des dépôts privés, non accessibles publiquement :
+
+| Type de projet | Description | Stack |
+|---|---|---|
+| Application mobile | Saisie de données sur le terrain, synchronisation avec un serveur central, données chiffrées sur l'appareil | Flutter · Dart · SQLCipher |
+| API & back-office | API REST sécurisée, gestion des rôles, validation, exports, notifications e-mail | Laravel · PHP 8.3 · Sanctum · MySQL |
+| Déploiement & sécurité | Mise en production sur VPS, HTTPS, audits de sécurité et correctifs documentés | Ubuntu · Nginx · Let's Encrypt |
 
 </details>
 
